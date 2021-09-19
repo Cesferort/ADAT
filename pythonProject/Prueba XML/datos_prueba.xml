@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><datos_finales>
+  <!--Datos finales-->
+  <datos id = '0'>
+    <COD>10</COD>
+    <NOMBRESOCIO>JUAN</NOMBRESOCIO>
+    <CUOTA_FIJA>100</CUOTA_FIJA>
+    <suma_cuota_adic>12</suma_cuota_adic>
+    <cuota_total>112</cuota_total>
+    <prueba>
+      <sub_prueba>Hola</sub_prueba>
+    </prueba>
+  </datos>
+  <datos id = '1'>
+    <COD>11</COD>
+    <NOMBRESOCIO>ANA</NOMBRESOCIO>
+    <CUOTA_FIJA>100</CUOTA_FIJA>
+    <suma_cuota_adic>16</suma_cuota_adic>
+    <cuota_total>116</cuota_total>
+    <prueba>
+      <sub_prueba>Venga</sub_prueba>
+    </prueba>
+  </datos>
+  <datos id = '2'>
+    <COD>13</COD>
+    <NOMBRESOCIO>MARIA</NOMBRESOCIO>
+    <CUOTA_FIJA>110</CUOTA_FIJA>
+    <suma_cuota_adic>20</suma_cuota_adic>
+    <cuota_total>130</cuota_total>
+    <prueba>
+      <sub_prueba>Adios</sub_prueba>
+    </prueba>
+  </datos>
+</datos_finales>

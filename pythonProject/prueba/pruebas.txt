@@ -1,0 +1,12 @@
+ SELECT count(Evento.id_deporte)
+ FROM Deportista, Participacion, Evento
+ WHERE Participacion.id_evento = Evento.id_evento
+ AND Deportista.id_deportista = Participacion.id_deportista
+ AND count(Evento.id_deporte) > 1
+ GROUP BY Deportista.id_Deportista;
+
+                    SELECT count(Evento.id_deporte)
+                    FROM Deportista, Participacion, Evento
+                    WHERE Participacion.id_evento = Evento.id_evento
+                    AND Deportista.id_deportista = Participacion.id_deportista
+                    GROUP BY Deportista.id_Deportist
